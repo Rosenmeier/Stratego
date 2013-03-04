@@ -1,0 +1,7 @@
+USE CASE - Start game
+
+1. User starts the program
+2. User creates new game
+3. User1 sets up game pieces
+4. User2 sets up game pieces
+5. User1 makes the first move
